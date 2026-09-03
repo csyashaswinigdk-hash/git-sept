@@ -1,3 +1,4 @@
+print("git73")
 print("git")
 print("github")
 print("jenkins")
@@ -7,4 +8,4 @@ print("maven")
 print("ansible")
 print("terraform")
 print("aws")
-print("sonarqube")
+print("sonarqube")git init
