@@ -7,4 +7,4 @@ print("maven")
 print("ansible")
 print("terraform")
 print("aws")
-print("sonarqube")git init
+print("sonarqube")
